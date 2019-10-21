@@ -2,7 +2,7 @@
 
 This is a demo application showing how you can integrate Nexmo and Slack. The application allows you to receive notifications via Slack whenever you receive an inbound message on your Nexmo virtual Number. 
 
-For more details on Nexmo's Virtual API, you can read more [here](https://www.nexmo.com/products/phone-numbers).
+For more details on Nexmo's Virtual Phone Numbers, you can read more [here](https://www.nexmo.com/products/phone-numbers).
 
 ## Topics
 Node, Express, Nexmo, Slack
